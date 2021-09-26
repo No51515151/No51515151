@@ -1,10 +1,8 @@
  .then(async(success) => { // Required if the group's shout is private
-
         console.log('Logged in.');
-
- 
-
-        let onShout = rbxbot.onShout(config.GroupID);
+        
+        
+        let onShout = rbxbot.onShout(config.10173490);
 
  
 
